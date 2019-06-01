@@ -9,6 +9,7 @@
         <module name="mavenproject" />
         <module name="projectB" />
         <module name="projectC" />
+        <module name="projectD" />
       </profile>
     </annotationProcessing>
   </component>
