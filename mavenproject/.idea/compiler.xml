@@ -8,9 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="mavenproject" />
         <module name="projectB" />
-        <module name="projectC" />
         <module name="projectD" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="projectC" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
